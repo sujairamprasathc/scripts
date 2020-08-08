@@ -1,0 +1,5 @@
+use auxiliary/server/fakedns
+set TARGETACTION FAKE
+#set TARGETHOST 192.168.211.1
+set TARGETDOMAIN www.acceptthatiamthegod.com
+run
